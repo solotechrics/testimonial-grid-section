@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials Grid Section
 
-![Design preview for the Testimonials grid section coding challenge](./preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](./screenshots/desktop-design.png)
 
 ## Table of contents
 
